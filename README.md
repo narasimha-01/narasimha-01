@@ -81,5 +81,7 @@ To contribute to semiconductor industry projects in RTL Design, Design Verificat
 ## Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/lakkimsetty-lakshmi-narasimha-swamy-2a4910341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 Instagram: https://www.instagram.com/narasimhalakkimsetty?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
+
 Email: narasimhalakkimsetty@gmail.com
