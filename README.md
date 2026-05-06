@@ -1,87 +1,103 @@
-# Narasimha Lakkimsetty
+<h1 align="center">Narasimha Lakkimsetty</h1>
+<h3 align="center">VLSI Design & Verification Engineer (Aspirant)</h3>
 
-B.Tech Electronics & Communication Engineering  
-Aspiring VLSI Design & Verification Engineer  
-Tech Content Creator focused on Engineering Growth  
-
----
-
-## About Me
-
-I am an ECE undergraduate passionate about VLSI Design, RTL Development, and Digital Systems.  
-I build real-time hardware and software projects while also creating educational content to guide engineering students in VLSI and core electronics domains.
-
-My goal is to become a skilled VLSI engineer in Design Verification or Physical Design.
-
----
-
-## Technical Skills
-
-• Verilog HDL  
-• Digital Logic Design  
-• FSM Design  
-• Xilinx Vivado  
-• Python  
-• Streamlit  
-• Arduino & Embedded Basics  
+<p align="center">
+  <a href="https://www.linkedin.com/in/lakkimsetty-lakshmi-narasimha-swamy-2a4910341">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/narasimhalakkimsetty">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:narasimhalakkimsetty@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## Featured Projects
+## 🧠 About Me
 
-### Processor Thermal Controller (Verilog)
-Designed and simulated a thermal management controller using Verilog HDL in Xilinx Vivado.  
-Includes RTL architecture, FSM implementation, and waveform verification.
+- 🎓 B.Tech – Electronics & Communication Engineering  
+- 🔬 Focus: **VLSI Design | RTL Development | Digital Systems**  
+- ⚡ Building real-time hardware & software projects  
+- 📢 Sharing engineering knowledge through content  
 
-### Satellite Tracker (Python)
-Built a real-time satellite tracking system using Python, Streamlit, and Skyfield.  
-Tracks ISRO, Starlink, and ISS positions using TLE orbital data.
-
-### Smart Investor (JavaScript)
-Basic financial decision-support web tool using JavaScript fundamentals.
+🎯 **Goal:** Design Verification / Physical Design Engineer  
 
 ---
 
-## What I Am Currently Learning
+## 🛠️ Technical Skills
 
-• SystemVerilog  
-• Design Verification Concepts  
-• UVM Basics  
-• VLSI Physical Design Flow  
-
----
-
-## Tech Stack
-
-![Verilog](https://img.shields.io/badge/Code-Verilog-blue)
-![Vivado](https://img.shields.io/badge/Tool-Xilinx_Vivado-orange)
-![Python](https://img.shields.io/badge/Code-Python-yellow)
-![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
+- 💻 Verilog HDL  
+- 🔁 FSM Design  
+- 📐 Digital Logic Design  
+- 🧰 Xilinx Vivado  
+- 🐍 Python  
+- 🌐 Streamlit  
+- 🔌 Arduino & Embedded Systems  
 
 ---
 
-## Content Creation
+## 🚀 Featured Projects
 
-I create educational content for B.Tech and Diploma students focusing on:
-
-• VLSI Career Guidance  
-• Internship Preparation  
-• Engineering Skill Development  
-• Real Project Building  
+### 🔥 Processor Thermal Controller (Verilog)
+- RTL-based thermal management system  
+- FSM implementation for control logic  
+- Verified outputs using waveform simulation  
 
 ---
 
-## Career Objective
-
-To contribute to semiconductor industry projects in RTL Design, Design Verification, or Physical Design while continuously improving technical depth.
+### 🛰️ Satellite Tracker (Python)
+- Real-time tracking using TLE data  
+- Built with Python + Streamlit + Skyfield  
+- Tracks ISS, ISRO & Starlink satellites  
 
 ---
 
-## Connect With Me
+### 📊 Smart Investor (JavaScript)
+- Financial decision-support tool  
+- Built using core JavaScript fundamentals  
 
-LinkedIn: https://www.linkedin.com/in/lakkimsetty-lakshmi-narasimha-swamy-2a4910341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+---
 
-Instagram: https://www.instagram.com/narasimhalakkimsetty?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
+## 📚 Currently Learning
 
-Email: narasimhalakkimsetty@gmail.com
+- SystemVerilog  
+- Design Verification  
+- UVM Basics  
+- Physical Design Flow  
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,arduino"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Verilog-HDL-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vivado-Xilinx-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge"/>
+</p>
+
+---
+
+## 🎥 Content Creation
+
+- VLSI Career Guidance  
+- Internship Preparation  
+- Core Engineering Skills  
+- Real Project Building  
+
+---
+
+## 🎯 Career Objective
+
+> To contribute to semiconductor industry projects in RTL Design, Design Verification, or Physical Design while continuously improving technical depth.
+
+---
+
+<p align="center">
+  ⚡ "Designing the future, one logic block at a time."
+</p>
